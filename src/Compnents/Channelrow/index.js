@@ -1,5 +1,5 @@
 import React from "react";
-import Avatar from "@material-ui/core/avatar";
+import { Avatar } from '@material-ui/core';
 import CheckCircleOutlineIcon from "@material-ui/icons/CheckCircleOutline";
 
 import { makeStyles } from "@material-ui/core/styles";
